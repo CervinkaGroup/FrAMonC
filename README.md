@@ -1,4 +1,4 @@
-# FrAMonC
+# FrAMonC Dimethyl Ether Dimers Library
 Platform for Fragment-based Ab Initio Monte Carlo simulations for amorphous molecular materials
 
 Library of Pair interactions of molecules extracted from ab initio Monte Carlo simulations of bulk liquid dimethyl ether
