@@ -16,5 +16,5 @@ addressed to e-mail address ctirad.cervinka@vscht.cz.
 
 Whenever this dimer library is used, please do cite the associated research article:
 
-C. Cervinka, Introducing the coupled-clusters theory to the amorphous world of liquids and their thermodynamic simulations, J. Am. Chem. Soc., Under Consideration, 2025.
+C. Cervinka, Introducing the coupled-clusters theory to the amorphous world of liquids and their thermodynamic simulations, J. Chem. Theory Comput., 10.1021/acs.jctc.5c01214, 2025.
 
